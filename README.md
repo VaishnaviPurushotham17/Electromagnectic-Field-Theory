@@ -22,7 +22,7 @@ Instead of only solving equations on paper, this repository demonstrates how ele
 ---
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - NumPy
